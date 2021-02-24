@@ -11,7 +11,7 @@ as task2.<whatever>
 
 3. With the result from task 2 as your starting point, implement the
 feature specified below. Save the result as task3.ps1 (or
-task3.<whatever> if you use another language).
+task3.
 Specification: There should be a finite amount of servings for each
  dish on the menu, i.e. 15 Dagens, 2 Vegetar, 5 Halal. Requesting a
  dish that has no servings left should return the message "Sorry, no
